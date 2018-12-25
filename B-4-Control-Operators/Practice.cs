@@ -33,7 +33,7 @@ namespace Basic.Lesson_4._1
         //B4-P2/25. If_NumbersComparing
         public static void B4_P2_25_If_NumbersComparing()
         {
-            Console.WriteLine("Алгоритм сравнения двух чисел");
+            Console.WriteLine("Comparison of two numbers");
             Console.WriteLine("Введите число Х: ");
             int X = Convert.ToInt32(Console.ReadLine());
 
